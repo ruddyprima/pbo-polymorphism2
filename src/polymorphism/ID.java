@@ -1,10 +1,9 @@
-package polymorphism.ID;
-
+package polymorphism;
 
 public class ID {
-    public String nama = "Denny";
-    private int nip = 1500631011;
-    public String jabatan = "Kepala Sekolah";
+    public String nama = "Ruddy Primahendra";
+    private int nip = 18630864;
+    public String jabatan = "Guru";
 
     public void nama(){
         System.out.println("Nama : "+nama);
